@@ -1,4 +1,5 @@
  🤖 Basic ChatBot using Python
+ 
  📌 Project Overview:This project is a simple rule-based chatbot developed using Python.  The chatbot interacts with users through predefined responses based on user input.
  
 🚀 Features
@@ -14,12 +15,6 @@
 4. Functions
 5. Input/Output Handling
    
- 📂 Project Structure
-basic-chatbot/
-│
-├── chatbot.py
-└── README.md
-
  ▶️ How to Run
 1. Install Python on your system
 2. Save the code as chatbot.py
