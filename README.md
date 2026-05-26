@@ -24,4 +24,4 @@ basic-chatbot/
 1. Install Python on your system
 2. Save the code as chatbot.py
 3. Open terminal or command prompt
-4. Run the file using:python chatbot.py
+4. Run the file using: python chatbot.py
