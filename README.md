@@ -9,7 +9,7 @@
 
 🛠️ Technologies Used
 1. Python
-2.Conditional Statements
+2. Conditional Statements
 3. Loops
 4. Functions
 5. Input/Output Handling
